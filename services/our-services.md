@@ -7,7 +7,7 @@ date: 2016-08-12T18:33:00+08:00
 categories: ""
 ---
 
-#### Branding & Identity
+#### Branding
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
 #### Web Development
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
